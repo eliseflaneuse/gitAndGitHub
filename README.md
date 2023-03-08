@@ -80,3 +80,6 @@ Make your project stand out look professional by at least including the followin
  
  
 Keep README’s brief but detailed. README should always be up-to-date and self-explanatory. If you have spent a lot of time on your project, you should also spend a good chunk of time on the README. It can help your future self as well when you step away for a while and need to get reacquainted with your project. Not to mention it’ll leave a positive impression on future interviewers who look at your GitHub profile.
+
+
+## 3. Helpful GitHub Features
