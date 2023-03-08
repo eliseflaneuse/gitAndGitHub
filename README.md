@@ -1,7 +1,8 @@
 # Git and Github - markdown and best practices
 
 
-### 1. Markdown Reference:
+## 1. Markdown:
+---
 
 Markdown **table**:
  
@@ -59,7 +60,7 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 
-## Conventions of a Good README File
+## 2.Conventions of a Good README File
 
 > Your README file should be as good as your project itself.
 
